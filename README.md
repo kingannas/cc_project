@@ -1,5 +1,3 @@
-# cc_project
-
 # cloud computing mini project
 
 Presented by :
